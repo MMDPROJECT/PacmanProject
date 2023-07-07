@@ -1,0 +1,1 @@
+to run the codes properly you have to type this in your Terminal:c++ final.cpp mapgen.cpp menu_functions.cpp struct_functions.cpp
