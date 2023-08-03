@@ -4,7 +4,7 @@
 
 
 
-																			# The God We Trust
+# The God We Trust
 
 
 
@@ -30,7 +30,7 @@
 
   - This CLI App simulates [**Pacman Game**](https://en.wikipedia.org/wiki/Pac-Man) which was so popular and cool once with many other extra features like saving, random map generation and so on.
 
-- #### objectives of the project:
+- #### Objectives of the project:
 
   - The app should provide a beautiful and user-friendly interface for user to interact with the game.
   - It has to generate a random map for playing
@@ -44,9 +44,9 @@
   2. Design structs.
   3. Place the objects on the map.
   4. Linking functionalities and I/O of player.
-     1. Save & Load.
-  5. Score board.
-  6. Debugging.
+  5. Save & Load.
+  6. Score board.
+  7. Debugging.
 
   
 
