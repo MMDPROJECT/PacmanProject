@@ -32,6 +32,7 @@
 
 - #### Objectives of the project:
 
+  - This app provides separate versions both for linux and windows.
   - The app should provide a beautiful and user-friendly interface for user to interact with the game.
   - It has to generate a random map for playing
   - Also it has to randomly spawn some fruits in the map based on the map size to help the player play the game easier.
@@ -67,31 +68,10 @@
 
   - C++
 
-    
+  
 
 ## Testing and Evaluation:
 
-- 
+- Below shows a comprehensive test of all options of the app and:
 
-
-
-## Conclusion:
-
-- Summarize the key findings of the report.
-- Reflect on the strengths and weaknesses of the solution and suggest areas for improvement.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-to run the codes properly you have to type this in your Terminal:c++ final.cpp mapgen.cpp menu_functions.cpp struct_functions.cpp
+![](./Images/Pacman-test.gif)
